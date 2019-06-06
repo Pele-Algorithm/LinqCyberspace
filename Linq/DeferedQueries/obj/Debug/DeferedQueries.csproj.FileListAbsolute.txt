@@ -1,0 +1,7 @@
+C:\Users\23490\Documents\cyberAcademy\Linq\linqCyberTechTalk\Linq\DeferedQueries\obj\Debug\DeferedQueries.csproj.CoreCompileInputs.cache
+C:\Users\23490\Documents\cyberAcademy\Linq\linqCyberTechTalk\Linq\DeferedQueries\bin\Debug\DeferedQueries.exe.config
+C:\Users\23490\Documents\cyberAcademy\Linq\linqCyberTechTalk\Linq\DeferedQueries\bin\Debug\DeferedQueries.exe
+C:\Users\23490\Documents\cyberAcademy\Linq\linqCyberTechTalk\Linq\DeferedQueries\bin\Debug\DeferedQueries.pdb
+C:\Users\23490\Documents\cyberAcademy\Linq\linqCyberTechTalk\Linq\DeferedQueries\obj\Debug\DeferedQueries.exe
+C:\Users\23490\Documents\cyberAcademy\Linq\linqCyberTechTalk\Linq\DeferedQueries\obj\Debug\DeferedQueries.pdb
+C:\Users\23490\Documents\cyberAcademy\Linq\linqCyberTechTalk\Linq\DeferedQueries\obj\Debug\DeferedQueries.csprojAssemblyReference.cache

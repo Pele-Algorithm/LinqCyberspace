@@ -1,0 +1,7 @@
+C:\Users\23490\Documents\cyberAcademy\Linq\linqCyberTechTalk\Linq\WhyLinq\bin\Debug\WhyLinq.exe.config
+C:\Users\23490\Documents\cyberAcademy\Linq\linqCyberTechTalk\Linq\WhyLinq\bin\Debug\WhyLinq.exe
+C:\Users\23490\Documents\cyberAcademy\Linq\linqCyberTechTalk\Linq\WhyLinq\bin\Debug\WhyLinq.pdb
+C:\Users\23490\Documents\cyberAcademy\Linq\linqCyberTechTalk\Linq\WhyLinq\obj\Debug\WhyLinq.csprojAssemblyReference.cache
+C:\Users\23490\Documents\cyberAcademy\Linq\linqCyberTechTalk\Linq\WhyLinq\obj\Debug\WhyLinq.csproj.CoreCompileInputs.cache
+C:\Users\23490\Documents\cyberAcademy\Linq\linqCyberTechTalk\Linq\WhyLinq\obj\Debug\WhyLinq.exe
+C:\Users\23490\Documents\cyberAcademy\Linq\linqCyberTechTalk\Linq\WhyLinq\obj\Debug\WhyLinq.pdb

@@ -1,0 +1,7 @@
+C:\Users\23490\Documents\cyberAcademy\Linq\linqCyberTechTalk\Linq\Linq\bin\Debug\Linq.exe.config
+C:\Users\23490\Documents\cyberAcademy\Linq\linqCyberTechTalk\Linq\Linq\bin\Debug\Linq.exe
+C:\Users\23490\Documents\cyberAcademy\Linq\linqCyberTechTalk\Linq\Linq\bin\Debug\Linq.pdb
+C:\Users\23490\Documents\cyberAcademy\Linq\linqCyberTechTalk\Linq\Linq\obj\Debug\Linq.csprojAssemblyReference.cache
+C:\Users\23490\Documents\cyberAcademy\Linq\linqCyberTechTalk\Linq\Linq\obj\Debug\Linq.csproj.CoreCompileInputs.cache
+C:\Users\23490\Documents\cyberAcademy\Linq\linqCyberTechTalk\Linq\Linq\obj\Debug\Linq.exe
+C:\Users\23490\Documents\cyberAcademy\Linq\linqCyberTechTalk\Linq\Linq\obj\Debug\Linq.pdb

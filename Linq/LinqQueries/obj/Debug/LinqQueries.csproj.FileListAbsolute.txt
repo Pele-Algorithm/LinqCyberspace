@@ -1,0 +1,7 @@
+C:\Users\23490\Documents\cyberAcademy\Linq\linqCyberTechTalk\Linq\LinqQueries\bin\Debug\LinqQueries.exe.config
+C:\Users\23490\Documents\cyberAcademy\Linq\linqCyberTechTalk\Linq\LinqQueries\bin\Debug\LinqQueries.exe
+C:\Users\23490\Documents\cyberAcademy\Linq\linqCyberTechTalk\Linq\LinqQueries\bin\Debug\LinqQueries.pdb
+C:\Users\23490\Documents\cyberAcademy\Linq\linqCyberTechTalk\Linq\LinqQueries\obj\Debug\LinqQueries.csprojAssemblyReference.cache
+C:\Users\23490\Documents\cyberAcademy\Linq\linqCyberTechTalk\Linq\LinqQueries\obj\Debug\LinqQueries.csproj.CoreCompileInputs.cache
+C:\Users\23490\Documents\cyberAcademy\Linq\linqCyberTechTalk\Linq\LinqQueries\obj\Debug\LinqQueries.exe
+C:\Users\23490\Documents\cyberAcademy\Linq\linqCyberTechTalk\Linq\LinqQueries\obj\Debug\LinqQueries.pdb

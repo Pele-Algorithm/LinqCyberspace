@@ -1,0 +1,7 @@
+C:\Users\23490\Documents\cyberAcademy\Linq\linqCyberTechTalk\Linq\PaggingWithSkipAndTake\bin\Debug\PaggingWithSkipAndTake.exe.config
+C:\Users\23490\Documents\cyberAcademy\Linq\linqCyberTechTalk\Linq\PaggingWithSkipAndTake\bin\Debug\PaggingWithSkipAndTake.exe
+C:\Users\23490\Documents\cyberAcademy\Linq\linqCyberTechTalk\Linq\PaggingWithSkipAndTake\bin\Debug\PaggingWithSkipAndTake.pdb
+C:\Users\23490\Documents\cyberAcademy\Linq\linqCyberTechTalk\Linq\PaggingWithSkipAndTake\obj\Debug\PaggingWithSkipAndTake.csproj.CoreCompileInputs.cache
+C:\Users\23490\Documents\cyberAcademy\Linq\linqCyberTechTalk\Linq\PaggingWithSkipAndTake\obj\Debug\PaggingWithSkipAndTake.exe
+C:\Users\23490\Documents\cyberAcademy\Linq\linqCyberTechTalk\Linq\PaggingWithSkipAndTake\obj\Debug\PaggingWithSkipAndTake.pdb
+C:\Users\23490\Documents\cyberAcademy\Linq\linqCyberTechTalk\Linq\PaggingWithSkipAndTake\obj\Debug\PaggingWithSkipAndTake.csprojAssemblyReference.cache
